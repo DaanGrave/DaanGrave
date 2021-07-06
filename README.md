@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=daangrave&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daangrave&langs_count=8" />
 
 
 <!--
